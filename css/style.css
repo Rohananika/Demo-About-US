@@ -1,0 +1,233 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    width: 1140px;
+}
+
+.logo{
+    width: 100px;
+}
+
+.nav-item li{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 100px;
+}
+
+.nav-item li ul{
+    margin-left: 30px;
+    margin-right: 30px;
+    font-family: 'Open Sans', sans-serif;
+    color: #2E367D;
+    font-size: 18px;
+}
+
+.navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.sign{
+    background-color: #2E367D;
+    border-radius: 5%;
+    border: none;
+    padding: 20px;
+    color: white;
+    margin-left: 15px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    
+}
+
+.text h1{
+    color: #2E367D;
+    font-family: 'Open Sans', sans-serif;
+    margin-bottom: 40px;
+}
+
+.container{
+    width: 1275px;
+    margin: 100px auto;    
+}
+
+.text p{
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 15px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 2rem;
+}
+
+.text-2 h1{
+    color: #2E367D;
+    font-family: 'Open Sans', sans-serif;
+    margin-bottom: 40px;
+    margin-top: 60px;
+}
+
+.text-2 p{
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 2rem;
+}
+
+.address{
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+    background-color: #2E367D;
+    border-radius: 5px;
+    padding: 80px 30px;
+    margin-top: 40px;
+
+}
+
+.left h1{
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    margin-bottom: 20px;
+}
+
+.left p{
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 2.5rem;
+}
+
+.right h1{
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    margin-bottom: 20px;
+
+}
+
+.right p{
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 2.5rem;
+}
+
+.f-container{
+    display: flex;
+    justify-content: center;
+    width: 1275px;
+    margin: 80px auto;
+}
+
+
+.f-text-1{
+    margin: 0px 80px;
+}
+
+.f-text-2{
+    margin: 0px 80px;
+}
+
+.f-text-3{
+    margin: 0px 80px;
+}
+
+.f-text-4{
+
+    margin: 0 80px;
+
+}
+
+.f-text-1 h1{
+    color: #2E367D;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.f-text-1 p{
+    color: #2E367D;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 1.5rem;
+    margin-top: 20px;
+    text-align: left;
+}
+
+.f-text-2 h1{
+    color: #2E367D;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.f-text-2 p{
+    color: #2E367D;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    text-align: left;
+    line-height: 1.5rem;
+    margin-top: 20px;
+}
+
+.f-text-3 h1{
+    color: #2E367D;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.f-text-3 li{
+    list-style: none;
+}
+
+.f-text-3 li ul{
+    margin: 10px 0px;
+    color: #2E367D;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+
+}
+
+.f-text-4 h1{
+    color: #2E367D;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.f-text-4 li{
+    list-style: none;
+}
+
+.f-text-4 li ul{
+    margin: 10px 0px;
+}
+
+.f-text-4 li ul a{
+    text-decoration: none;
+    color: #2E367D;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.copyright{
+    margin-bottom: 20px;
+    text-align: center;
+    color: #2E367D;
+    font-family: 'Open Sans', sans-serif;
+}
+
